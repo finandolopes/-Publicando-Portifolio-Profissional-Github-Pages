@@ -2,9 +2,9 @@
   💻<br>Portfólio - Fernando Aparecido Lopes da Silva
 </h1>
 
-![Resultado final do projeto](assets/image/preview.png)
+![Resultado final do projeto](assets/image/previe.png)
 
-<h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://www.com/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 

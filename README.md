@@ -31,7 +31,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 
 <p align="center">
-  <img src="screenshot.png" title="screenshot" alt="screenshot do jogo">
+  <img src="screenshot.png" title="screenshot" alt="Screenshot do Projeto">
 </p>
 
 

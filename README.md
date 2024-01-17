@@ -1,10 +1,8 @@
 <h1 align="center">
-  💻<br>Portfólio - Fernando Aparecido Lopes da Silva
+  💻<br>Portfólio - Fernando Lopes 
 </h1>
 
-![Resultado final do projeto](assets/image/previe.png)
-
-<h4 align="center"><a href="https://www.com/">Clique para visitar o projeto</a></h4>
+- [Link do projeto:](https://finandolopes.github.io/-Publicando-Portifolio-Profissional-Github-Pages/)
 
 ## 📚 Seções
 
@@ -29,5 +27,11 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - ScrollReveal;
 - SVG Inject;
 
----
+## 🖥 Preview:
+
+
+<p align="center">
+  <img src="screenshot.png" title="screenshot" alt="screenshot do jogo">
+</p>
+
 
